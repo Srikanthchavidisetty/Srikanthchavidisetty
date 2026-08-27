@@ -13,6 +13,9 @@
   <a href="https://github.com/Srikanthchavidisetty">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://portfolio-pv1b.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00A86B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 </div>
