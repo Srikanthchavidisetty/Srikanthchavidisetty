@@ -1,11 +1,11 @@
 <div>
 
-#                                          👋 CHAVIDISETTY SRIKANTH
+#👋 CHAVIDISETTY SRIKANTH
 
 ### AI & Full-Stack Developer
 
 **Artificial Intelligence · Machine Learning · Computer Vision · Python · Full-Stack Development**
-<p align="center>
+<p align="center">
   <a href="https://www.linkedin.com/in/chavidisetty-srikanth-411b082b3">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
