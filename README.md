@@ -7,8 +7,8 @@
 **Artificial Intelligence · Machine Learning · Computer Vision · Python · Full-Stack Development**
 
 <p>
-  <a href="https://github.com/">GITHUB</a> ·
-  <a href="https://www.linkedin.com/">LINKEDIN</a>
+  <a href="https://github.com/Srikanthchavidisetty">GITHUB</a> ·
+  <a href="https://www.linkedin.com/in/chavidisetty-srikanth-411b082b3">LINKEDIN</a>
 </p>
 
 </div>
@@ -42,76 +42,90 @@ I'm currently focusing on building projects that combine **AI with real-world ap
 
 ## 🔥 Featured Project
 
+## 🔥 Featured Projects
+
 ### 🛡️ AI Smart Safety Monitoring & Emergency Alert System
 
-A real-time computer-vision system designed to detect people and identify possible falls using **YOLO Pose estimation**.
+An AI-powered real-time safety system that uses **Computer Vision and YOLO Pose Estimation** to detect people and identify possible falls.
 
-```text
-Camera
-   ↓
-Video Frames
-   ↓
-YOLO Pose
-   ↓
-Human Keypoints
-   ↓
-Body/Posture Analysis
-   ↓
-Fall Confirmation
-   ↓
-🚨 Alert
-   ↓
-Database + Dashboard + Email
-```
+**Key Features**
 
-### Key Features
+* 🎥 Real-time camera monitoring
+* 👤 Human detection & pose estimation
+* 🚨 Fall detection
+* 📧 Emergency email alerts
+* 📊 Safety monitoring dashboard
+* 🗄️ Incident history
 
-- 🎥 Real-time camera monitoring
-- 👤 Human detection
-- 🦴 Human pose/keypoint estimation
-- 🚨 Fall detection
-- 📧 Emergency email alerts
-- 🗄️ Incident history
-- 📊 Monitoring dashboard
-- ⚡ FastAPI backend
-- 🧠 YOLO Pose + OpenCV
-
-### Tech Stack
-
-**AI / Computer Vision**
-- Python
-- YOLO Pose
-- OpenCV
-- NumPy
-
-**Backend**
-- FastAPI
-- REST API
-
-**Database**
-- SQLite
-- PostgreSQL-ready architecture
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
+**Tech Stack:** Python · YOLO Pose · OpenCV · FastAPI · SQLite · JavaScript
 
 ---
 
-## 🛠️ Technologies
+### 🤖 INFO-AI – AI Assistant
 
-### Languages
+An AI-powered web assistant that uses **Generative AI** to provide intelligent responses and interactive user assistance.
 
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+**Key Features**
 
-### AI / ML
+* 🤖 AI-powered conversations
+* 💬 Interactive chat interface
+* 🧠 Intelligent response generation
+* 🔗 API integration
+* ⚙️ Automation workflow
 
-`Machine Learning` `Computer Vision` `YOLO` `Pose Estimation` `OpenCV` `NumPy`
+**Tech Stack:** Python · Gemini API · JavaScript · HTML · CSS · n8n
 
-### Backend
+---
 
-`FastAPI` `Django` `REST API`
+### 💼 TaxPro
+
+A web-based application designed to simplify **tax calculations and financial data management**.
+
+**Key Features**
+
+* 🧮 Tax calculation
+* 💰 Financial information management
+* 📊 Tax summaries
+* 👤 User data management
+* 🌐 Web-based interface
+* 🗄️ Database integration
+
+**Tech Stack:** Python · HTML · CSS · JavaScript · SQL
+
+---
+
+### 💰 Django Salary Management System
+
+A full-stack **employee and salary management application** built with Django and PostgreSQL.
+
+**Key Features**
+
+* 👨‍💼 Employee management
+* 💰 Salary management
+* 📊 Salary records & calculations
+* 🗄️ PostgreSQL database
+* 🔐 Data validation
+* 🌐 Management dashboard
+
+**Tech Stack:** Python · Django · PostgreSQL · HTML · CSS · JavaScript
+
+---
+
+### 👨‍💼 MERN Employee Management System
+
+A full-stack employee management platform built using the **MERN Stack** with authentication and CRUD functionality.
+
+**Key Features**
+
+* 👤 Employee management
+* ➕ Add employee records
+* ✏️ Update employee details
+* 🗑️ Delete records
+* 🔐 User authentication
+* 📊 Employee dashboard
+* 🔗 REST API
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Mongoose
 
 ### Databases
 
