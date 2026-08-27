@@ -16,7 +16,7 @@
 
 
 ---
-
+<div>
 ## 👨‍💻 About Me
 
 I build practical software projects using **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**.
