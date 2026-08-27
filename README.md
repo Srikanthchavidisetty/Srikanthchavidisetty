@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./llm_rag_typing.gif" alt="LLM Integration & RAG Systems">
+</p>
+<p align="center">
+  <img src="./n8n_fastapi_typing.gif" alt="n8n and FastAPI">
+</p>
+
 <div align="center">
 
   <h1>👋 CHAVIDISETTY SRIKANTH</h1>
